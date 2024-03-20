@@ -24,7 +24,6 @@ export default function NavHeader() {
         <div className="flex lg:flex-1">
           <a href="/">
             <span className="sr-only">Mama&apos;s Kitchen</span>
-            <img className="max-h-32 w-auto" src={logo} alt="Mama's Kitchen" />
             <img
               className="max-h-32 w-auto"
               src={logo}
