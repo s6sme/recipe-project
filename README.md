@@ -7,3 +7,5 @@ This project demonstrates my knowledge of React and how to work with the interna
 React, React Route, localStorage, Fetch API, Tailwind CSS
 
 If you want clich HERE to watch ↓
+
+recipe-project-steel.vercel.app
