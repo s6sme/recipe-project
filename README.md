@@ -8,4 +8,4 @@ React, React Route, localStorage, Fetch API, Tailwind CSS
 
 If you want clich HERE to watch ↓
 
-recipe-project-steel.vercel.app
+https://recipe-project-steel.vercel.app/bookmarks
