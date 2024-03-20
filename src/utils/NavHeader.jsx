@@ -24,7 +24,15 @@ export default function NavHeader() {
         <div className="flex lg:flex-1">
           <a href="/">
             <span className="sr-only">Mama&apos;s Kitchen</span>
+<<<<<<< HEAD
             <img className="max-h-32 w-auto" src={logo} alt="Mama's Kitchen" />
+=======
+            <img
+              className="max-h-32 w-auto"
+              src={/logo.png}
+              alt="Mama's Kitchen"
+            />
+>>>>>>> cd3b437b4eee0d1db619d736501990da217d9360
           </a>
         </div>
         <div className="flex lg:hidden">
@@ -62,7 +70,11 @@ export default function NavHeader() {
               <span className="sr-only">Mama&apos;s Kitchen</span>
               <img
                 className="max-h-32 w-auto"
+<<<<<<< HEAD
                 src={logo}
+=======
+                src={/logo.png}
+>>>>>>> cd3b437b4eee0d1db619d736501990da217d9360
                 alt="Mama's Kitchen"
               />
             </a>
