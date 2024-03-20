@@ -1,8 +1,9 @@
-# React + Vite
+👩‍🍳 MAMA'S KITCHEN
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application is a simple web-based recipe viewer. It allows users to browse recipes, bookmark them, view bookmarks, and add new recipes.
 
-Currently, two official plugins are available:
+This project demonstrates my knowledge of React and how to work with the internal state of components, interact with the server using the Fetch API, route and navigate a web application using React Router, and use local storage to store data between user sessions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React, React Route, localStorage, Fetch API, Tailwind CSS
+
+If you want clich HERE to watch ↓
