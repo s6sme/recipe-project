@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
+import { logo } from "../../public/image";
 
 export default function NavHeader() {
   const navigation = [
@@ -23,11 +24,7 @@ export default function NavHeader() {
         <div className="flex lg:flex-1">
           <a href="/">
             <span className="sr-only">Mama&apos;s Kitchen</span>
-            <img
-              className="max-h-32 w-auto"
-              src="../public/logo.png"
-              alt="Mama's Kitchen"
-            />
+            <img className="max-h-32 w-auto" src={logo} alt="Mama's Kitchen" />
           </a>
         </div>
         <div className="flex lg:hidden">
@@ -65,7 +62,7 @@ export default function NavHeader() {
               <span className="sr-only">Mama&apos;s Kitchen</span>
               <img
                 className="max-h-32 w-auto"
-                src="/logo.png"
+                src={logo}
                 alt="Mama's Kitchen"
               />
             </a>
