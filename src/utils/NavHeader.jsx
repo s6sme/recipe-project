@@ -27,7 +27,7 @@ export default function NavHeader() {
             <img className="max-h-32 w-auto" src={logo} alt="Mama's Kitchen" />
             <img
               className="max-h-32 w-auto"
-              src={/logo.png}
+              src={logo}
               alt="Mama's Kitchen"
             />
           </a>
@@ -68,7 +68,6 @@ export default function NavHeader() {
               <img
                 className="max-h-32 w-auto"
                 src={logo}
-                src={/logo.png}
                 alt="Mama's Kitchen"
               />
             </a>
