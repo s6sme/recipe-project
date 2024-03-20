@@ -1,8 +1,10 @@
+import { logo } from "../../public/image";
+
 export default function Testimonials() {
   return (
     <section className="relative isolate overflow-hidden bg-white pt-24">
       <div className="mx-auto max-w-2xl lg:max-w-4xl">
-        <img className="mx-auto h-60" src="../data/logo.png" alt="" />
+        <img className="mx-auto h-60" src={logo} alt="MAMAs Kitchen" />
         <figure className="mt-10">
           <blockquote className="text-center text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
             <p>
