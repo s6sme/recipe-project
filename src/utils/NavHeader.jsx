@@ -25,7 +25,7 @@ export default function NavHeader() {
             <span className="sr-only">Mama&apos;s Kitchen</span>
             <img
               className="max-h-32 w-auto"
-              src="../data/logo.png"
+              src="../public/logo.png"
               alt="Mama's Kitchen"
             />
           </a>
@@ -65,7 +65,7 @@ export default function NavHeader() {
               <span className="sr-only">Mama&apos;s Kitchen</span>
               <img
                 className="max-h-32 w-auto"
-                src="../data/logo.png"
+                src="../public/logo.png"
                 alt="Mama's Kitchen"
               />
             </a>
