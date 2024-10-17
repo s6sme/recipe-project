@@ -9,7 +9,7 @@ export default function LogoClouds() {
           <img
             className="col-span-2 max-h-12 w-full object-contain lg:col-span-1"
 {/*             src="https://tailwindui.com/img/logos/158x48/transistor-logo-gray-900.svg" */}
-            src="https://vuetifyjs.b-cdn.net/docs/images/one/logos/vbin-logo.png"
+            src="https://w7.pngwing.com/pngs/68/643/png-transparent-logo-graphy-illustration-creative-company-logo-logo-free-logo-design-template-text-photography.png"
             alt="Transistor"
             width={158}
             height={48}
